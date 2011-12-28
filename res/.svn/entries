@@ -1,0 +1,46 @@
+10
+
+dir
+8
+http://androidtetris.googlecode.com/svn/trunk/res
+http://androidtetris.googlecode.com/svn
+
+
+
+2011-11-28T16:35:41.829130Z
+8
+chris.ferrario@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b96d6124-9c50-11dd-b397-3d94ef37118f
+
+values
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+layout
+dir
+

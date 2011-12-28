@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/6/trunk/src/android/game/tetris
+END
+TetrisGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/src/android/game/tetris/TetrisGrid.java
+END
+ITetrisConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/src/android/game/tetris/ITetrisConstants.java
+END
+TetrisView.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/src/android/game/tetris/TetrisView.java
+END
+TetrisShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/src/android/game/tetris/TetrisShape.java
+END
+TetrisHud.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/src/android/game/tetris/TetrisHud.java
+END
